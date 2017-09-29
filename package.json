@@ -1,0 +1,13 @@
+{
+  "name": "bamazon-app",
+  "version": "1.0.0",
+  "description": "bamazon app ",
+  "main": "giphyjavascript.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
